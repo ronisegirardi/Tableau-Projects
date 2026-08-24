@@ -52,3 +52,5 @@ The dashboard is structured as a guided narrative — from an executive overview
 
 ## About This Project
 Completed as part of the **Data Technician bootcamp**, this project demonstrates the full analytics workflow — transforming raw retail and sales data into clear, interactive visualizations that support data-driven decisions.
+
+[Link to my Dashboard] https://public.tableau.com/views/GBEmploymentDataset_17846242219170/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
